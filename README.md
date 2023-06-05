@@ -169,8 +169,7 @@ Feeling confident about the setup, I click on the "Install" button to begin the 
 <img src="https://imgur.com/FYSAzeZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+13. With the forest set up, I can now proceed with configuring and managing the domain, creating organizational units, user accounts, and other domain resources.
 <br />
 
 <p>
