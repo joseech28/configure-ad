@@ -95,7 +95,18 @@ I observe the command prompt as it continuously displays the round-trip time and
 In the Remote Desktop window, I enter the IP address or hostname of "DC-1" and click on the "Connect" button, initiating the connection attempt.
 The Remote Desktop client establishes a connection with "DC-1", and I am presented with the login screen for the VM.
 <br />
-
+<p>
+<img src="https://imgur.com/vqM71p5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+6. In DC-1. with administrative access I open the Start menu and type "Windows Firewall" to locate the Windows Firewall settings.
+I click on the "Windows Defender Firewall with Advanced Security" option to open the firewall management console.
+The Windows Firewall with Advanced Security window appears, presenting me with various configuration options.
+I navigate to the "Inbound Rules" section in the left-hand pane and scroll down to find the "File and Printer Sharing (Echo Request - ICMPv4-In)" rule.
+I right-click on the "File and Printer Sharing (Echo Request - ICMPv4-In)" rule and select "Enable Rule" from the context menu.
+</p>
+<br />
+  
 <p>
 <img src="https://imgur.com/yemaoS2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -333,13 +344,7 @@ The Remote Desktop client establishes a connection with "DC-1", and I am present
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/vqM71p5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-35Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
 
 <p>
 <img src="https://imgur.com/dXa0VCQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
