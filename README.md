@@ -38,7 +38,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 1. I log in to the Azure portal using my Azure account credentials, feeling excited about setting up our Domain Controller VM.
 Once inside the Azure portal, I navigate to the dashboard and click on the "Create a resource" button, ready to kickstart the process.
 In the Azure Marketplace, I search for "Windows Server" and carefully select the Windows Server version that suits our needs.
-With a sense of anticipation, I click on the "Create" button, beginning the setup process for our Domain Controller VM.
+With a sense of anticipation, I click on the "Create" button, beginning the setup process for our Domain Controller VM 
+In the Basics tab, I provide the necessary details for the VM: Subscription: I choose the appropriate subscription for our organization.
+Resource group: Since it's the first time, I select "Create new" and enter a name like "DC-ResourceGroup" to create a dedicated resource group.
+Virtual machine name: I give it the name "DC-1" to represent our Domain Controller VM.
 </p>
 <br />
 
