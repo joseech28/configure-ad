@@ -188,7 +188,11 @@ The "_EMPLOYEES" OU now appears within the selected container in the Active Dire
 <img src="https://imgur.com/aU1jgmT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-9Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+14. I launch the "Active Directory Users and Computers" application from the "Start" menu on my computer.
+In the Active Directory Users and Computers window, I navigate to the desired container where I want to create the new OU. This can be the domain root or an existing OU.
+Once I have the desired container selected, I right-click on it to open the context menu. From the context menu, I choose the "New" option and then select "Organizational Unit".
+A dialog box appears, prompting me to provide a name for the new OU. I carefully type "_ADMINS" as the name and press Enter or click "OK" to confirm.
+After confirming, the "_ADMINS" OU is created within the selected container in the Active Directory Users and Computers window. I can now proceed to manage and organize user accounts or other objects within this newly created OU.
 </p>
 <br />
 
