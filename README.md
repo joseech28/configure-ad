@@ -86,6 +86,14 @@ To initiate a perpetual ping to the private IP address of our Domain Controller 
 Excitement builds as I press the Enter key, and the perpetual ping command starts sending ICMP echo requests to the private IP address of "DC-1".
 I observe the command prompt as it continuously displays the round-trip time and status of each ping request sent to "DC-1".
 <br />
+  
+  <p>
+<img src="https://imgur.com/BZ0yusB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+5. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 
 <p>
 <img src="https://imgur.com/yemaoS2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -314,13 +322,7 @@ I observe the command prompt as it continuously displays the round-trip time and
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/BZ0yusB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-33Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
 
 <p>
 <img src="https://imgur.com/nh7NjC1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
