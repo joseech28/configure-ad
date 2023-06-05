@@ -122,7 +122,7 @@ I proceed to perform other administrative tasks on the Domain Controller, levera
 <img src="https://imgur.com/t4yYfQa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8. 8. As soon as I press the "Control-C" keys, I feel a sense of relief as I notice the command-line interface responding. 
+8. As soon as I press the "Control-C" keys, I feel a sense of relief as I notice the command-line interface responding. 
 The process or command I was running gracefully stops, and I regain control of the command prompt.
 
 <br />
