@@ -111,7 +111,7 @@ I right-click on the "File and Printer Sharing (Echo Request - ICMPv4-In)" rule 
 <img src="https://imgur.com/dXa0VCQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. The rule is now enabled, allowing the Domain Controller to respond to ICMPv4 echo requests (pings).
+7. Going back to "Client-1" The rule is now enabled, allowing the Domain Controller to respond to ICMPv4 echo requests (pings).
 With the ICMPv4 rule enabled, I can ensure seamless communication and network troubleshooting by receiving and responding to ICMPv4 echo requests.
 Satisfied with the firewall configuration, I close the Windows Firewall with Advanced Security window.
 I proceed to perform other administrative tasks on the Domain Controller, leveraging its powerful capabilities to manage our Active Directory environment.
