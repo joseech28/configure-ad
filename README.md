@@ -131,8 +131,16 @@ The process or command I was running gracefully stops, and I regain control of t
 <img src="https://imgur.com/yemaoS2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+9.With administrative access to "DC-1", I open the Server Manager by clicking on the Start menu and selecting "Server Manager" from the available options.
+The Server Manager window appears, displaying an overview of the server's management tools and information.
+In the Server Manager, I navigate to the "Manage" menu and click on "Add Roles and Features" to start the installation wizard.
+The Add Roles and Features Wizard opens, presenting me with the installation options and choices.
+I carefully review the information provided in the Before You Begin section and proceed to the Installation Type selection.
+I choose the "Role-based or feature-based installation" option and click on the "Next" button to continue.
+In the Select Destination Server section, I ensure that "DC-1" is selected as the target server for the installation and click on "Next".
+Next, I navigate to the Server Roles selection and expand the "Active Directory Domain Services" option.
+I check the box next to "Active Directory Domain Services" to select it for installation.
+
 <br />
 
 <p>
