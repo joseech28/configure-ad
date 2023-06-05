@@ -162,8 +162,7 @@ Feeling confident about the setup, I click on the "Install" button to begin the 
 <img src="https://imgur.com/mMysz5R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+11. Once the installation finishes successfully, I receive a notification confirming that "DC-1" is now a Domain Controller for the "mydomain.com" forest.
 <br />
 
 <p>
