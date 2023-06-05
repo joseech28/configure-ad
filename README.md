@@ -49,7 +49,16 @@ Virtual machine name: I give it the name "DC-1" to represent our Domain Controll
 <img src="https://imgur.com/1N1J4Nh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-12Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. After successfully setting up the Domain Controller VM, I'm excited to create a Client VM to join our domain and start testing our Active Directory setup.
+I log in to the Azure portal using my Azure account credentials, ready to proceed with creating the Client VM.
+Once inside the Azure portal dashboard, I navigate to the Resource Group "DC-ResourceGroup" that we previously created for our Domain Controller.
+Within the Resource Group, I click on the "Add" button to begin the process of adding a new resource.
+In the Azure Marketplace, I search for "Windows 10" and select the Windows 10 version that best fits our requirements.
+With anticipation, I click on the "Create" button, initiating the setup process for our Client VM.
+In the Basics tab, I provide the necessary details for the VM: Subscription: I choose the appropriate subscription, ensuring it aligns with our organization's Azure resources.
+Resource group: I select the existing Resource Group "DC-ResourceGroup" to keep our Client VM organized within the same group as the Domain Controller.
+Virtual machine name: I enter "Client-1" as the name for our Client VM.
+
 </p>
 <br />
 
