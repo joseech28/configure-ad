@@ -66,7 +66,10 @@ Virtual machine name: I enter "Client-1" as the name for our Client VM.
 <img src="https://imgur.com/jvsUXB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-23Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. In the VM's overview page, I click on the "Networking" option in the left-hand menu to manage its network settings.
+Under the Networking tab, I find the NIC associated with our Domain Controller VM and click on it to access its configuration.
+Within the NIC configuration page, I locate the "IP configurations" section and select the existing IP configuration for our Domain Controller.
+In the IP configuration settings, I look for the "Private IP address" option and choose to set it as static instead of dynamic.
 </p>
 <br />
 
