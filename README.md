@@ -147,7 +147,14 @@ I check the box next to "Active Directory Domain Services" to select it for inst
 <img src="https://imgur.com/5zyVgf5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+10. The Active Directory Domain Services Configuration Wizard opens, ready to guide me through the process of setting up the "mydomain.com" forest.
+I choose the option to "Add a new forest" since we want to create a brand new forest.
+In the Root domain name field, I enter "mydomain.com" as the name for the new forest, carefully noting it down for future reference.
+I review the Forest Functional Level and Domain Functional Level options and select the appropriate levels based on our requirements and compatibility.
+Next, I set the Directory Services Restore Mode (DSRM) password, ensuring it meets the security standards and is memorable for future use.
+I review the summary of the configuration options, double-checking that all the settings are accurate.
+Feeling confident about the setup, I click on the "Install" button to begin the process of creating the "mydomain.com" forest.
+
 </p>
 <br />
 
