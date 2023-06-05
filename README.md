@@ -91,7 +91,7 @@ I observe the command prompt as it continuously displays the round-trip time and
 <img src="https://imgur.com/BZ0yusB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. I open the Remote Desktop application on my local machine, ready to establish a connection with our Domain Controller VM, "DC-1".
+5. Going back to DC-1 I open the Remote Desktop application on my local machine, ready to establish a connection with our Domain Controller VM, "DC-1".
 In the Remote Desktop window, I enter the IP address or hostname of "DC-1" and click on the "Connect" button, initiating the connection attempt.
 The Remote Desktop client establishes a connection with "DC-1", and I am presented with the login screen for the VM.
 <br />
