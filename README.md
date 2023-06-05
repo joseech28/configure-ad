@@ -177,9 +177,12 @@ Feeling confident about the setup, I click on the "Install" button to begin the 
 <img src="https://imgur.com/6SChUqt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+13. I open the "Active Directory Users and Computers" application from the "Start" menu on my computer.
+In the Active Directory Users and Computers window, I navigate to the desired container where I want to create the OU. This could be the domain root or another existing OU.
+I right-click on the container and select the "New" option from the context menu. Then, I choose "Organizational Unit" from the submenu.
+A dialog box appears, prompting me to enter a name for the new OU. I carefully type "_EMPLOYEES" as the name and click "OK" to confirm.
+The "_EMPLOYEES" OU now appears within the selected container in the Active Directory Users and Computers window. I can proceed to manage and organize user accounts and other objects within this newly created OU.
+
 
 <p>
 <img src="https://imgur.com/aU1jgmT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
