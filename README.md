@@ -73,7 +73,17 @@ In the IP configuration settings, I look for the "Private IP address" option and
 </p>
 <br />
 
-
+<p>
+<img src="https://imgur.com/fqH7Kyq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4. After a brief moment, the Remote Desktop client logs me in to "Client-1", and I am now inside the VM's desktop environment.
+With "Client-1" now at my disposal, I open the command prompt by clicking on the Start menu, typing "cmd," and selecting the Command Prompt application.
+The command prompt window appears, ready for me to enter commands and perform various tasks.
+To initiate a perpetual ping to the private IP address of our Domain Controller VM, "DC-1", I type the following command: ping -t <DC-1's private IP address>.
+Excitement builds as I press the Enter key, and the perpetual ping command starts sending ICMP echo requests to the private IP address of "DC-1".
+I observe the command prompt as it continuously displays the round-trip time and status of each ping request sent to "DC-1".
+<br />
 
 <p>
 <img src="https://imgur.com/t4yYfQa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
