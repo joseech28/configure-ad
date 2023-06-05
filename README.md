@@ -188,11 +188,15 @@ The "_EMPLOYEES" OU now appears within the selected container in the Active Dire
 <img src="https://imgur.com/aU1jgmT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-14. I launch the "Active Directory Users and Computers" application from the "Start" menu on my computer.
-In the Active Directory Users and Computers window, I navigate to the desired container where I want to create the new OU. This can be the domain root or an existing OU.
-Once I have the desired container selected, I right-click on it to open the context menu. From the context menu, I choose the "New" option and then select "Organizational Unit".
-A dialog box appears, prompting me to provide a name for the new OU. I carefully type "_ADMINS" as the name and press Enter or click "OK" to confirm.
-After confirming, the "_ADMINS" OU is created within the selected container in the Active Directory Users and Computers window. I can now proceed to manage and organize user accounts or other objects within this newly created OU.
+14. I open the "Active Directory Users and Computers" application from the "Start" menu on my computer.
+In the Active Directory Users and Computers window, I navigate to the "_ADMINS" Organizational Unit (OU) where I want to create the new employee.
+Once inside the "_ADMINS" OU, I right-click on it to open the context menu. From the context menu, I choose the "New" option and then select "User".
+A new user creation wizard appears. In the wizard, I enter the required information. I provide the following details:
+First name: Jane
+Last name: Doe
+User logon name: jane_admin (or any desired username)
+Password: I set the password to the same password used for this admins or follow the organization's password policy.
+After entering the necessary information, I click "Next" or "Finish" to complete the user creation process.
 </p>
 <br />
 
