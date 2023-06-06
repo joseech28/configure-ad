@@ -218,7 +218,11 @@ Once logged in as "mydomain.com\jane_admin", I will use it as my admin account f
 <img src="https://imgur.com/p5rBfrd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-15Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+16. I log in to the Azure Portal using my credentials at https://portal.azure.com.
+Once logged in, I navigate to the resource group where my Client-1 virtual machine is located.
+From the list of resources within the resource group, I select the Client-1 virtual machine.
+In the overview page of Client-1, I click on the "Networking" section in the left-hand menu to manage its networking settings.
+Under the Networking section, I locate the "DNS servers" option and click on it to modify the DNS settings. I enter the private IP address of the Domain Controller (DC) in the provided field and save the changes.
 </p>
 <br />
 
