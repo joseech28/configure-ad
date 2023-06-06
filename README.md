@@ -200,21 +200,15 @@ After entering the necessary information, I click "Next" or "Finish" to complete
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/FHod5rh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-15. To log out or close the Remote Desktop connection to DC-1, I click on the "Start" menu and choose the "Log Off" or "Disconnect" option to end the session.
-Now, I log back in to DC-1 as "mydomain.com\jane_admin". I enter the appropriate username and password for the "jane_admin" account when prompted.
-Once logged in as "mydomain.com\jane_admin", I will use it as my admin account from now on for managing the domain.
-</p>
-<br />
+
 
 <p>
 <img src="https://imgur.com/tVX4cHu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-11Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+15. To log out or close the Remote Desktop connection to DC-1, I click on the "Start" menu and choose the "Log Off" or "Disconnect" option to end the session.
+Now, I log back in to DC-1 as "mydomain.com\jane_admin". I enter the appropriate username and password for the "jane_admin" account when prompted.
+Once logged in as "mydomain.com\jane_admin", I will use it as my admin account from now on for managing the domain.
 </p>
 <br />
 
