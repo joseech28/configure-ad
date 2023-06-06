@@ -238,7 +238,11 @@ Under the Networking section, I locate the "DNS servers" option and click on it 
 <img src="https://imgur.com/aylRgJK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-17Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+17. On Client-1, I click on the "Start" button and select "Settings" from the menu. In the Settings window, I choose the "System" option.
+In the System settings, I navigate to the "About" section on the left-hand side. Under "About," I click on the "Rename this PC" button.
+The System Properties window opens, and I select the "Change" button next to the computer name.
+In the "Computer Name/Domain Changes" window, I select the "Domain" option and enter the name of the domain I want to join. For example, if the domain is "mydomain.com," I enter "mydomain" in the provided field.
+After entering the domain name, I click on the "OK" button and provide the credentials of a user with sufficient privileges to join the domain.
 </p>
 <br />
 
