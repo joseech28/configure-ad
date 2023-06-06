@@ -226,13 +226,7 @@ Under the Networking section, I locate the "DNS servers" option and click on it 
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/z8fybDX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-16Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
 
 <p>
 <img src="https://imgur.com/aylRgJK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -381,5 +375,11 @@ After entering the domain name, I click on the "OK" button and provide the crede
 </p>
 <br />
 
-
+<p>
+<img src="https://imgur.com/z8fybDX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+16Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 
