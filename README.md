@@ -266,6 +266,7 @@ Back in the policy properties window, I ensure that "domain users" is listed und
 </p>
 <p>
  20. I have successfully opened PowerShell ISE as an administrator, allowing me to perform administrative tasks and configurations with elevated privileges.
+  I can now use PowerShell ISE to execute administrative commands and scripts, perform system configurations, and manage various aspects of the system that require elevated privileges.
 </p>
 <br />
 
