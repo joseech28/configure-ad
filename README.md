@@ -257,7 +257,7 @@ Back in the policy properties window, I ensure that "domain users" is listed und
 <img src="https://imgur.com/jdd4MYV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-19. I will create a bunch of additional users using my scrip in the on the Domain Controller (DC). I then log in to DC-1 as "jane_admin" and attempted to log in to Client-1 with one of the newly created user accounts. This allows for testing the login process and ensuring that the user accounts are functioning correctly.
+19. I will create a bunch of additional users using a script in the on the Domain Controller (DC). I then log in to DC-1 as "jane_admin" and attempted to log in to Client-1 with one of the newly created user accounts. This allows for testing the login process and ensuring that the user accounts are functioning correctly.
 
 <br />
 
