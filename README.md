@@ -282,7 +282,7 @@ Back in the policy properties window, I ensure that "domain users" is listed und
 <img src="https://imgur.com/1WqZq6j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-26Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+22. Now I have a bunch of user created and ready for testing.
 </p>
 <br />
 
