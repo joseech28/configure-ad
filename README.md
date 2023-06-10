@@ -290,7 +290,11 @@ Back in the policy properties window, I ensure that "domain users" is listed und
 <img src="https://imgur.com/Pr9FTmB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-27Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+23. I open Remote Desktop Connection on my computer.
+In the Remote Desktop Connection window, I enter the IP address or hostname of Client-1.
+I click on the "Connect" button to initiate the remote desktop session.
+In the login screen of the remote desktop session, I enter the username of one of the user accounts created earlier.
+I enter the password for the user account, which I took note of from the script.
 </p>
 <br />
 
