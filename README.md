@@ -240,19 +240,16 @@ After entering the domain name, I click on the "OK" button and provide the crede
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/CHoKfS2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
-</p>
-<p>
-18Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
 <img src="https://imgur.com/Y7mqoQd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-19Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+18. In the right-hand pane, I locate the "Allow log on through Remote Desktop Services" policy and double-click on it to modify its settings.
+The policy properties window opens, and I click on the "Add User or Group" button.
+In the "Select Users or Groups" window, I enter "domain users" and click on the "Check Names" button to verify and resolve the name.
+Once "domain users" is resolved, I click on the "OK" button to add it to the policy.
+Back in the policy properties window, I ensure that "domain users" is listed under "Security Setting" and click on the "OK" button to save the changes.
 </p>
 <br />
 
