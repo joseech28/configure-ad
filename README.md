@@ -5,6 +5,12 @@
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
+<h2>Description</h2>
+
+Setting up Active Directory in Azure. Steps include creating a Domain Controller 
+(DC-1) VM and a Client (Client-1) VM in the same Vnet. Connectivity between the two is verified, and 
+Active Directory is installed on DC-1. Users "Jane Doe" and "jane_admin" are created, and Client-1 is joined to the domain.
+Remote desktop access for non-admin users is set up, and additional users are created using a PowerShell script.
 
 
 <h2>Environments and Technologies Used</h2>
