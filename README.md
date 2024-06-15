@@ -308,7 +308,7 @@ I enter the password for the user account, which I took note of from the script.
 <img src="https://imgur.com/4FxqyfE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I open the "Active Directory Users and Computers" (ADUC) console on the Domain Controller (DC).
+25. I open the "Active Directory Users and Computers" (ADUC) console on the Domain Controller (DC).
 In the ADUC console, I navigate to the appropriate organizational unit (OU) where the user account whose password needs to be reset is located.
 Once I locate the user account, I right-click on it and select "Reset Password" from the context menu.
 The "Reset Password" dialog box appears, and I enter the new password for the user account. I make sure to follow any password complexity requirements that may be in place.
